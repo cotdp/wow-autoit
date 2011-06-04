@@ -1,0 +1,6 @@
+A simple auto-clicker bot originally used to interact with Darkmoon Faire NPC's
+
+When it starts it will sample two mouse locations (you have to hover the mouse
+over each of the two NPC's in the DMF stall).  It will then repeatedly click
+and interact with them.  Use an auto-buying add-on to buy the items you want
+from these vendors.
